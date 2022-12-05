@@ -1,0 +1,41 @@
+/* #christmas {
+    font-size:x-large;
+    font-weight: bold;
+    text-align: center;
+    
+} */
+
+#christmaspic {
+    width: 400px;
+    height: 400px;
+    display:block; 
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction:column; 
+    /* margin-bottom: 20px; */
+    border: 2px solid lightgreen;
+    border-radius: 10%;
+    
+}
+
+#christmastext {
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    display: block;
+    margin-left: 100px;
+    font-family: franklin gothic medium;
+    /* text-align: center;  */
+}
+
+#display {
+    font-size: 50px;
+    font-weight: bold;
+    display: block; 
+    margin-left: 100px;
+    font-family: franklin gothic medium;
+    /* text-align: center; */
+}

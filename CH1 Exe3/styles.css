@@ -1,0 +1,43 @@
+#car {
+    width: 220px;
+    height: 220px;
+    display:flex;
+}
+
+/* #car_text {
+    border: 2px solid black;
+    
+} */
+
+ul {
+    height: auto;
+    width:350px;
+    border: 2px solid black;
+    
+}
+
+#manufacturer {
+    display:block;
+    font-family: georgia pro;
+    font-size:larger;
+    padding-top:5px;
+}
+
+#make {
+    display:block;
+    font-family: georgia pro;
+    font-size:larger;
+}
+
+#engine {
+    display:block;
+    font-family: georgia pro;
+    font-size:larger;
+}
+
+#body {
+    display:block;
+    font-family: georgia pro;
+    font-size:larger;
+    padding-bottom: 10px;
+}
